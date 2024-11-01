@@ -15,6 +15,23 @@ collections:
     permalink       : "/news/:year/:month/:day/:title/"
     output          : true
 
+# default formatting by section
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 # Handling Reading
 safe                : false
 include             : [".htaccess"]
