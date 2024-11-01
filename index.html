@@ -4,11 +4,12 @@ title: Blog
 ---
 <h1>Latest Posts</h1>
 
+<p>before posts</p>
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+<p>after posts</p>
