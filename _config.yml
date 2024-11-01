@@ -9,6 +9,7 @@ includes_dir        : _includes
 sass:
   sass_dir: _sass
 collections:
+  authors:
   posts:
     permalink       : "/news/:year/:month/:day/:title/"
     output          : true
