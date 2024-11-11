@@ -8,4 +8,4 @@ This Github page is technically the backend of the blog, if you want to see the 
 
 This is a Jekyll blog being hosted through Github Pages. Every time a push is submitted it automatically rebuilds the blog, adding new posts and content as needed. 
 
-Actual writing is handled through [Obsidian](https://obsidian.md), a Markdown based notetaking tool. In theory these two should play nicely with eachother, but it's something I'll need to play with an see what issues come up. One nice thing is that this should let me research, draft, format, and publish my posts all through the same app. Templating plugins can also be used to pre-fill all the needed frontmatter that will go onto posts as well. 
+Actual writing is handled through [Obsidian](https://obsidian.md), a Markdown based notetaking tool. In theory these two should compliment eachother, but it's something I'll need to play with and see what issues come up. One nice thing is that this should let me research, draft, format, and publish my posts all through the same app. Templating plugins can also be used to pre-fill all the needed frontmatter that will go onto posts as well. 
