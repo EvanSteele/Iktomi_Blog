@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Evan
+summary: Learning why port 80 should stay closed
 ---
 The game Cyberpunk 2077 is set in a fictional future after the development of general intelligence AI. These AI were able to find their way onto the wider internet, and essentially started World War 3. To mitigate their damage, the internet became fragmented into a series of subnets, and sitting between those subnets was something called the Blackwall, humanity's last line of defense keeping the rogue AI's out of our fragile networks. 
 
