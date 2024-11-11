@@ -9,9 +9,10 @@ Untitled*
 # Exclude "bad" names
 null*
 
-#Exclude Personal and Researchnotes folder
+#Exclude Personal, Research, and Template folders
 Personal/*
 Research/*
+Templates/*
 
 #Exclude Daily notes folder
 Daily*Notes/
