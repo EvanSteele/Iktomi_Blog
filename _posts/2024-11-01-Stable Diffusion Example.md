@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Evan
+summary: A quick demo on how Stable Diffusion generates images
 ---
 
 This image was made using Stable diffusion 1.0 and the automatic1111 GUI. Prompt provided was "Birds taking flight", step count set to 20. This produced the grid of 20 512x512 images below, with each image being a single step taken by Stable Diffusion. 
