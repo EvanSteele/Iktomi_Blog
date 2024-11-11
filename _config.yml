@@ -16,6 +16,7 @@ collections:
     output          : true
 
 # default formatting by section
+theme: jekyll-theme-minimal
 defaults:
   - scope:
       path: ""
