@@ -1,3 +1,7 @@
+---
+layout: post
+author: Evan
+---
 The game Cyberpunk 2077 is set in a fictional future after the development of general intelligence AI. These AI were able to find their way onto the wider internet, and essentially started World War 3. To mitigate their damage, the internet became fragmented into a series of subnets, and sitting between those subnets was something called the Blackwall, humanity's last line of defense keeping the rogue AI's out of our fragile networks. 
 
 A few weeks ago I spent a day working on digitizing a board game I like. I got a functional copy of the board and a few unit tests for different features working, and I felt pretty good about it. I wanted to demo it to a friend at work the next day, but I didn't want to go through the effort of setting up a full webserver. Feeling clever, I spun up a python SimpleHTTP server on my desktop, opened port 80 on my firewall to point to it, and set up NoIP to have a subdomain point to my home IP (The last part wasn't technically needed, I just wanted to be stylish). With this all set up for tomorrow I went off to bed. 
