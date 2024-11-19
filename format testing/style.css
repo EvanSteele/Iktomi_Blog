@@ -1,0 +1,46 @@
+.topnav {
+	height: 80px;
+	background-color: #333;
+	overflow:hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav.left a{
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav.right {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.container {
+	display: flex;
+      	gap: 10px; /* Space between divs */
+        }
+.mainboard {
+        flex: 2; /* Each box takes equal width */
+        padding: 20px;
+	margin-left: 80px;
+        background-color: #f0f0f0;
+        text-align: center;
+        border: 1px solid #ccc;
+	}
+
+.sideboard {
+        flex: 1; /* Each box takes equal width */
+        padding: 20px;
+        background-color: #555555;
+        text-align: center;
+        border: 1px solid #ccc;
+	}
+
