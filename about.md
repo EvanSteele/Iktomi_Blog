@@ -5,4 +5,6 @@ title: About
 
 # About page
 
-This poorly designed blog is designed by Evan Steele, and exists as more of a pet project than a functional site. It's made using flask and Github, and automatically rebuilds itself whenever I make a new commit to the repo. The idea for this was to try and find a way to create project writeups in [Obsidian](Obsidian.md) and have them get published automatically. We'll see if it works out in the end. 
+This is a Jekyll blog being hosted through Github Pages. Every time a push is submitted it automatically rebuilds the blog, adding new posts and content as needed.
+
+Actual writing is handled through Obsidian, a Markdown based notetaking tool. In theory these two should compliment eachother, but it's something I'll need to play with and see what issues come up. One nice thing is that this should let me research, draft, format, and publish my posts all through the same app. Templating plugins can also be used to pre-fill all the needed frontmatter that will go onto posts as well.
